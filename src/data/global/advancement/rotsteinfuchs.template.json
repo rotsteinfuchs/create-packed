@@ -1,0 +1,20 @@
+{
+  "display": {
+    "title": "Template title",
+    "description": "Template description",
+    "icon": {
+      "id": "minecraft:paper",
+      "components": {
+        "item_model": "template:icon"
+      }
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:rotsteinfuchs",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

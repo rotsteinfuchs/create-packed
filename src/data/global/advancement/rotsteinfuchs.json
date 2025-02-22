@@ -1,0 +1,22 @@
+{
+  "display": {
+    "title": "Rotsteinfuchs",
+    "description": "",
+    "icon": {
+      "id": "minecraft:player_head",
+      "components": {
+        "profile": {
+          "name": "Rotsteinfuchs"
+        }
+      }
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

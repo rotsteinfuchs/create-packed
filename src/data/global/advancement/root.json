@@ -1,0 +1,15 @@
+{
+  "display": {
+    "title": "Installed Datapacks",
+    "description": "View all installed datapacks",
+    "icon": { "id": "minecraft:knowledge_book" },
+    "background": "minecraft:textures/block/gray_concrete.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
