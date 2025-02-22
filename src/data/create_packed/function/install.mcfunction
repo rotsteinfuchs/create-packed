@@ -3,6 +3,7 @@
 # Called by: create_packed:load (only once)
 
 # Create Scoreboard(s)
+scoreboard objectives add block.belt dummy
 
 # Create Storage(s)
 
