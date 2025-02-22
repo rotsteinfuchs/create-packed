@@ -1,4 +1,4 @@
 {
   "replace": false,
-  "values": ["template:load"]
+  "values": ["create_packed:load"]
 }

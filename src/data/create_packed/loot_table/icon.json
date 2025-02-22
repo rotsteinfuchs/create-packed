@@ -16,14 +16,14 @@
             {
               "function": "set_components",
               "components": {
-                "minecraft:item_model": "template:icon"
+                "minecraft:item_model": "create_packed:icon"
               }
             },
             {
               "function": "set_name",
               "name": [
                 {
-                  "text": "Template title"
+                  "text": "Create: Packed"
                 }
               ],
               "target": "item_name"
@@ -34,7 +34,7 @@
                 {
                   "color": "gray",
                   "italic": false,
-                  "text": "Template description"
+                  "text": "The Create Mod - but packed into a data pack!"
                 }
               ],
               "mode": "replace_all"

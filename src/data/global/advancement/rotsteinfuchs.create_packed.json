@@ -1,11 +1,11 @@
 {
   "display": {
-    "title": "Template title",
-    "description": "Template description",
+    "title": "Create: Packed",
+    "description": "The Create Mod - but packed into a data pack!",
     "icon": {
       "id": "minecraft:paper",
       "components": {
-        "item_model": "template:icon"
+        "item_model": "create_packed:icon"
       }
     },
     "announce_to_chat": false,

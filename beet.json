@@ -1,7 +1,7 @@
 {
-  "name": "Beet Template",
+  "name": "Create: Packed",
   "version": "1.0.0",
-  "description": "A pre-configured template to quickly set up your Minecraft Beet project.",
+  "description": "The Create Mod - but packed into a data pack!",
   "author": "Rotsteinfuchs",
   "output": "build",
   "data_pack": {
@@ -15,6 +15,6 @@
   },
   "pipeline": ["build.main"],
   "meta": {
-    "generate_namespace": "template"
+    "generate_namespace": "create_packed"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "template:item/icon"
+    "model": "create_packed:item/icon"
   }
 }

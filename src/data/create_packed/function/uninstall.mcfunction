@@ -1,7 +1,6 @@
-# Author: @Rotsteinfuchs
-# Description: Uninstalls this datapack
+# Uninstalls this datapack
 #
-# Call: Player
+# Called by: Player
 
 # Remove Scoreboard(s)
 
