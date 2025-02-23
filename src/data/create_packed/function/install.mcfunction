@@ -7,5 +7,3 @@ scoreboard players set #debug cp 0
 
 # Create Storage(s)
 
-# Change state to installed
-data merge storage pack:create_packed { installed: 1b }

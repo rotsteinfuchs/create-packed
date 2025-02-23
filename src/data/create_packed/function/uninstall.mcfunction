@@ -3,6 +3,7 @@
 # Called by: Player
 
 # Remove Scoreboard(s)
+scoreboard objectives remove cp
 
 # Remove Storage(s)
 
