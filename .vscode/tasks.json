@@ -12,7 +12,13 @@
       "command": "beet build && beet watch",
       "isBackground": true,
       "problemMatcher": [],
-      "runOptions": { "runOn": "folderOpen" }
+      "runOptions": {
+        "runOn": "folderOpen"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
     }
   ]
 }
