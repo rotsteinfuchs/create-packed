@@ -3,7 +3,7 @@
 # Called by: create_packed:load (only once)
 
 # Create Scoreboard(s)
-scoreboard objectives add block.belt dummy
+scoreboard players set #debug cp 0
 
 # Create Storage(s)
 
