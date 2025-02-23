@@ -16,11 +16,11 @@
             {
               "function": "set_components",
               "components": {
-                "minecraft:item_model": "create_packed:blocks/belt",
+                "minecraft:item_model": "create_packed:blocks/belt/default",
                 "minecraft:entity_data": {
                   "id": "minecraft:item_frame",
                   "Invisible": true,
-                  "Tags": ["cp.blocks.belt.placed"]
+                  "Tags": ["cp.blocks.belt.placed", "cp.block.placed", "belt"]
                 }
               }
             },
